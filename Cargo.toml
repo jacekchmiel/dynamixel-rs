@@ -1,0 +1,9 @@
+[package]
+name = "dynamixel"
+version = "0.1.0"
+authors = ["Jacek Chmiel <chmieljj@gmail.com>"]
+
+[dependencies]
+serial = "0.3"
+log = "*"
+byteorder = "*"
